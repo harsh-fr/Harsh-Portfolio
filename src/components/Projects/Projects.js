@@ -28,7 +28,7 @@ function Projects() {
               title="Lets-Chat"
               description="A full stack chat app which supports peraonal and group chat functionality."
               ghLink="https://github.com/harsh-fr/Lets-Chat"
-              // demoLink="https://chatify-49.web.app/"
+              demoLink="https://drive.google.com/file/d/1YY3JIKEI1ouedr_us66g_4bSilql8IIm/view?usp=sharing"
             />
           </Col>
 
